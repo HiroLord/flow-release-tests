@@ -10,8 +10,8 @@
 	},
 
 	"github": {
-		"org": "homedepot",
-		"repo": "flow",
+		"org": "hirolord",
+		"repo": "flow-release-tests",
 		"URL": "https://api.github.com/repos"
 	},
 
@@ -22,7 +22,7 @@
 	"environments": {
 		"development": {
 			"artifactCategory": "snapshot",
-			"associatedBranchName": "develop"
+			"associatedBranchName": "master"
 		},
 		"production": {
 			"artifactCategory": "release",
